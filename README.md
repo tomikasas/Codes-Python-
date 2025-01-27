@@ -6,7 +6,7 @@ This repository contains various Python projects, focusing on different areas of
 
 1. **Cardiovascular Disease Prediction**
    - The primary goal of this project is to analyze the cardiovascular disease dataset and build a logistic regression model that predicts the likelihood of developing coronary heart disease within the next 10 years. The structure is roughly as follows:
-   - Features: `age`, `sex`, `BMI`, `systolic_blood_pressure`, `cholesterol`, and others.
+   - Features:  `tenyearCHD`,`age`, `sex`, `BMI`, `systolic_blood_pressure`, `cholesterol`, and others.
    - Techniques used: Logistic regression, feature engineering, data preprocessing, and model evaluation.
    - The project was conducted in Jupyter Notebook, where I explored and cleaned the data, visualized insights, and built machine learning models interactively.
 
